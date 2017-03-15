@@ -1,0 +1,17 @@
+{
+  "name": "reverse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/reversestring.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine test/test.js"
+  },
+  "author": "Olubodun Oluwafemi",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
